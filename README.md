@@ -1,4 +1,7 @@
- PowerShell GUI-Based Media Converter
+
+![combined_long](https://github.com/user-attachments/assets/d3c2c7ea-6196-46dd-a403-833ec7a7c749)
+
+
 
 A flagship PowerShell application that converts various file types to JPEG format using a clean GUI interface.
 
